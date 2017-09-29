@@ -1,0 +1,9 @@
+[empty]
+length: 4
+[0,1,2,3]
+[1,2,3]
+[1,2]
+[1]
+length: 1
+item_at(0): 1
+length: 1
